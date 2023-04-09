@@ -1,0 +1,6 @@
+Training accuracy epsilon0.5_frac1.0_lr0.001_nl22.0_beta1.2_gamma0.95_ls600_lepoch1.00_anTrue_iidTrue: 79.10
+Testing accuracy epsilon0.5_frac1.0_lr0.001_nl22.0_beta1.2_gamma0.95_ls600_lepoch1.00_anTrue_iidTrue: 79.76
+Finish!
+Training accuracy epsilon0.5_frac1.0_lr0.001_nl22.0_beta1.2_gamma0.95_ls600_lepoch1.00_anTrue_iidTrue: 84.59
+Testing accuracy epsilon0.5_frac1.0_lr0.001_nl22.0_beta1.2_gamma0.95_ls600_lepoch1.00_anTrue_iidTrue: 85.37
+Finish!
